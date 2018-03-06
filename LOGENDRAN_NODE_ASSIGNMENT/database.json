@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "iPhone X",
+      "price": 90000,
+      "inTheBox":
+        "Device(Battery - in build), Charger, User Manual, Headset, Guard",
+      "modelNumber": "iPhone X",
+      "size": "5.7 inch",
+      "category": "mobile",
+      "color": "space gray",
+      "touchScreen": "yes",
+      "image": "http://localhost:4000/images/mobile.jpeg"
+    },
+    {
+      "id": 2,
+      "productName": "iPhone SE",
+      "price": 19999,
+      "inTheBox":
+        "Device(Battery - in build), Charger, User Manual, Headset, Guard",
+      "modelNumber": "iPhone SE",
+      "size": "5 inch",
+      "category": "mobile",
+      "color": "space gray",
+      "touchScreen": "yes",
+      "image": "http://localhost:4000/images/mobile.jpeg"
+    },
+    {
+      "id": 3,
+      "productName": "Samsung Galaxy",
+      "price": 60000,
+      "inTheBox": "Handset, Battery, Charger, User Manual, Headset,Guard",
+      "modelNumber": "S8",
+      "size": "5.5 inch",
+      "category": "mobile",
+      "color": "white",
+      "touchScreen": "yes",
+      "image": "http://localhost:4000/images/mobile.jpeg"
+    }
+  ]
+}
